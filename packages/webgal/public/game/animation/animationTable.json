@@ -15,5 +15,19 @@
   "godrayFilm",
   "removeFilm",
   "shockwaveIn",
-  "shockwaveOut"
+  "shockwaveOut",
+  "ba-enter-from-left",
+  "ba-enter-from-right",
+  "ba-look-around-flip",
+  "ba-hop-search-left-right",
+  "ba-hop-search-right-left",
+  "ba-jump-surprise-medium",
+  "ba-spin-enter-raw",
+  "BA-down",
+  "BA-left-falldown",
+  "BA-right-falldown",
+  "BA-jump-twice",
+  "BA-jump",
+  "BA-shake",
+  "BA-bigshake"
 ]
